@@ -1,0 +1,8 @@
+/*
+let states =["Nebraska","Iowa","Minnesota","North Dakota", "South Dakota","Kansas", "Oklahoma", "Texas"]
+states.reverse()
+
+for(i = 0;i<states.length;i++){
+  console.log(states[i])
+  }
+*/

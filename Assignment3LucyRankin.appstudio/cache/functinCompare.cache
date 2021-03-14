@@ -1,0 +1,15 @@
+/*
+let password=prompt("Please enter your passowrd:")
+let confirm=prompt("Please confirm your password:")
+let passwordComparison=comparePassword(password,confirm)
+
+function comparePassword(password1, password2){
+  password=password1
+  confirmPassword=password2
+  if(password==confirmPassword){
+  console.log("Your passwords match!")
+}else{
+  console.log("Youe passwords do not match.")
+  }
+}
+*/
